@@ -42,6 +42,7 @@ public class Main {
             finalWeight = weight * 1.23;
 
 
+
         System.out.println("Your weight would be " + finalWeight+ " on that planet.");
     }
 }
